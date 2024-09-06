@@ -3,7 +3,7 @@ A simple guestbook application built with python (Flask) and PostgreSQL, running
 
 
 
-![Docker-Guestbook-project](https://github.com/user-attachments/assets/f4ce2898-7543-4b37-b6e0-0cc29dbf0108)
+![Docker-Guestbook-project](joe.png)
 
 
 
@@ -17,7 +17,6 @@ A simple guestbook application built with python (Flask) and PostgreSQL, running
 - [Architecture](#architecture)
 - [Troubleshooting](#troubleshooting)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Getting Started
 
@@ -94,8 +93,3 @@ If you encounter any issues, you can check the logs of your containers with the 
       
 ## Contributing
 Please read CONTRIBUTING.md for details on the code of conduct, and the process for submitting pull requests.
-
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-This structure and the inclusion of the architecture diagram will help users understand the components and interactions within your project. If you need further assistance with the diagram or any other part of the README, feel free to ask!
